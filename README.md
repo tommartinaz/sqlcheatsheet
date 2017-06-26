@@ -77,3 +77,4 @@ SELECT date_part('unit', date(date_column)) FROM tablename;
 #####'Unit' is a predefined abbreviation depending on what you are trying to display. See [Table 8-1. Data Types](https://www.postgresql.org/docs/current/static/datatype.html#DATATYPE-TABLE) for a list of possibilities.
 
 # sqlcheatsheet
+# sqlcheatsheet
